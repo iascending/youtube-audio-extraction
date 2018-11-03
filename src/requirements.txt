@@ -1,1 +1,2 @@
 virtualenv==16.0.0
+ffmpeg-20181102-d6d407d-win32-static/bin -->Scripts/
